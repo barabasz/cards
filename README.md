@@ -15,7 +15,7 @@ $hand1->sort();
 Pick a second and random card from the hand:
 ```php
 $card1 = $hand1->pick(2);
-$card1 = $hand1->rand();
+$card2 = $hand1->rand();
 ```
 Compare ranks of two cards:
 ```php
