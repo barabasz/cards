@@ -1,6 +1,6 @@
 <?php
 /*
- * This is a very simple and unfinished package to play with cards
+ * This is a very simple and unfinished package to play with 52-cards deck
  */
 namespace Barabasz\Cards;
 
